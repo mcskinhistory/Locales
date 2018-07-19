@@ -4,5 +4,21 @@
 	"nav.support": "Support",
 	"nav.store": "Store",
 	"nav.blog": "Blog",
-	"nav.signin": "Sign in"
+	"nav.signin": "Sign in",
+	"accountNav.info": "Account Info",
+	"accountNav.api": "API Settings",
+	"accountNav.external": "External Accounts",
+	"accountNav.apps": "Applications",
+	"accountNav.sessions": "Active sessions",
+	"accountNav.password": "Change password",
+	"accountNav.logout": "Logout",
+	"adminNav.home": "Home",
+	"adminNav.users": "Users",
+	"adminNav.bans": "Bans",
+	"adminNav.ipManagement": "IP Management",
+	"adminNav.helpDesk": "Help Desk",
+	"adminNav.sessions": "Sessions",
+	"adminNav.apiKeys": "API Keys",
+	"adminNav.apiLog": "API Log",
+	"adminNav.loginKeys": "Login Keys"
 }
