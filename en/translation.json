@@ -1,1 +1,8 @@
-{}
+{
+	"nav.home": "Home",
+	"nav.community": "Community",
+	"nav.support": "Support",
+	"nav.store": "Store",
+	"nav.blog": "Blog",
+	"nav.signin": "Sign in"
+}
