@@ -103,5 +103,11 @@
 	"badbrowser.title": "You are using an outdated browser.",
 	"badbrowser.headline": "Browser Support Information",
 	"badbrowser.jsAndCookies": "JavaScript and Cookies need to be supported in order to use this web site.",
-	"badbrowser.browserInfoText": "To be able to use all of the site's functions, we recommend that you download and install one of the following browsers:"
+	"badbrowser.browserInfoText": "To be able to use all of the site's functions, we recommend that you download and install one of the following browsers:",
+	"forgotpw.error.mailNotSent": "The email could not be sent.",
+	"forgotpw.error.accountNotFound": "That account could not be found.",
+	"forgotpw.headline": "Forgot your password?",
+	"forgotpw.field.email": "Email address",
+	"forgotpw.button.submit": "Submit",
+	"forgotpw.button.reset": "Reset"
 }
