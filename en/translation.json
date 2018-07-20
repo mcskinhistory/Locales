@@ -207,5 +207,20 @@
 	"account.manageapp.updated": "The application was updated!",
 	"account.manageapp.field.secret": "API Secret",
 	"account.manageapp.secretSecurityInfo": "Use this to make calls to the API with the application. <b>Don't share this token with anybody, it's equivalent to sharing your password!!</b>",
-	"account.manageapp.updateButton": "Update"
+	"account.manageapp.updateButton": "Update",
+	"account.info.username": "Username",
+	"account.info.username.change": "change",
+	"account.info.email": "Email Address",
+	"account.info.registerDate": "Register Date",
+	"account.info.gcoins": "GCoins",
+	"account.info.undefined": "Undefined",
+	"account.info.avatar.changed": "Your profile picture has been changed!<br/>It may take up to 5 minutes to update.",
+	"account.info.avatar.sameSHA": "You are already using that avatar.",
+	"account.info.avatar.fileTooLarge": "The uploaded file is too large. (Max. 1 MB)",
+	"account.info.avatar.invalidExtension": "Invalid file type: .{0}!<br/>Allowed file types are: .jpg, .gif, .png",
+	"account.info.avatar.removed": "Your profile picture has been removed.",
+	"account.info.avatar.headline": "Profile Picture",
+	"account.info.avatar.fileInfo": "Allowed file types: .jpg, .png, .gif | Max size: 1 MB<br/>Optimal resolution: 300x300 pixels",
+	"account.info.avatar.submit": "Submit",
+	"account.info.avatar.delete": "Delete current avatar"
 }
