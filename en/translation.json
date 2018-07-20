@@ -110,5 +110,14 @@
 	"forgotpw.field.email": "Email address",
 	"forgotpw.button.submit": "Submit",
 	"forgotpw.button.reset": "Reset",
-	"jobs.noJobOpenings": "There are currently no job openings available."
+	"jobs.noJobOpenings": "There are currently no job openings available.",
+	"account.api.deprecated": "As announced on July 11 2018, we are soon releasing v3 of the login API, which will deprecate v2 and v1 as well as the API keys. If you are using v2 or v1 right now, please prepare for changes in the future and switch to v3 as soon as possible.<br/><b><a href=\"https://blog.gigadrivegroup.com/2018/07/login-api-v3/\" target=\"_blank\">More info on v3 can be found here</a></b>.",
+	"account.api.keyCreated": "Your API key has been created. Make sure to keep it private!",
+	"account.api.error.alreadyHaveAKey": "You already have an API key.",
+	"account.api.headline": "API Settings",
+	"account.api.noKey": "You currently do not have an API key.",
+	"account.api.clickToGenerate": "Click to generate a new key",
+	"account.api.yourKey": "Your API key:",
+	"account.api.accessAt": "You can access the API at {0}.",
+	"account.api.documentationLink": "Documentation: (coming soon)"
 }
