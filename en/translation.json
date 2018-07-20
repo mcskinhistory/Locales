@@ -99,5 +99,9 @@
 	"authorize.privacy": "View privacy policy",
 	"authorize.button.authorize": "Authorize",
 	"authorize.button.cancel": "Cancel",
-	"authorize.infoAlert": "<b>You can use your Gigadrive account to sign in to other websites and services.</b><br/>By clicking <em>Authorize</em>, you can use {0} without sharing your Gigadrive password."
+	"authorize.infoAlert": "<b>You can use your Gigadrive account to sign in to other websites and services.</b><br/>By clicking <em>Authorize</em>, you can use {0} without sharing your Gigadrive password.",
+	"badbrowser.title": "You are using an outdated browser.",
+	"badbrowser.headline": "Browser Support Information",
+	"badbrowser.jsAndCookies": "JavaScript and Cookies need to be supported in order to use this web site.",
+	"badbrowser.browserInfoText": "To be able to use all of the site's functions, we recommend that you download and install one of the following browsers:"
 }
