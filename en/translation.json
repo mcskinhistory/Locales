@@ -119,5 +119,20 @@
 	"account.api.clickToGenerate": "Click to generate a new key",
 	"account.api.yourKey": "Your API key:",
 	"account.api.accessAt": "You can access the API at {0}.",
-	"account.api.documentationLink": "Documentation: (coming soon)"
+	"account.api.documentationLink": "Documentation: (coming soon)",
+	"account.apps.authorized.headline": "Authorized applications",
+	"account.apps.authorized.noApps": "You currently have no apps authorized.",
+	"account.apps.authorized.removeModal.title": "Remove application \"{0}\"",
+	"account.apps.authorized.removeModal.text": "Are you sure you want to remove this application? This will delete all the data the application has on you, remove it's access to your account and render you unable to use it with your Gigadrive account.",
+	"account.apps.authorized.removeModal.button.close": "Close",
+	"account.apps.authorized.removeModal.button.remove": "Remove",
+	"account.apps.authorized.accessTo": "This application has access to",
+	"account.apps.authorized.date": "Authorized",
+	"account.apps.authorized.removeButton": "Remove",
+	"account.apps.authorized.unauthorized": "{0} has been unauthorized.",
+	"account.apps.created.headline": "Created applications",
+	"account.apps.created.createButton": "Create application",
+	"account.apps.created.noApps": "You currently have no apps created.",
+	"account.apps.created.date": "Created",
+	"account.apps.created.manageButton": "Manage"
 }
