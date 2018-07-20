@@ -134,5 +134,13 @@
 	"account.apps.created.createButton": "Create application",
 	"account.apps.created.noApps": "You currently have no apps created.",
 	"account.apps.created.date": "Created",
-	"account.apps.created.manageButton": "Manage"
+	"account.apps.created.manageButton": "Manage",
+	"account.changepw.changed": "Your password has been changed.",
+	"account.changepw.oldPasswordWrong": "Your old password is wrong.",
+	"account.changepw.newDontMatch": "The new passwords do not match.",
+	"account.changepw.headline": "Change your password",
+	"account.changepw.field.oldPassword": "Your current password",
+	"account.changepw.field.newPassword": "Your new password",
+	"account.changepw.field.newPassword2": "Re-type your new password",
+	"account.changepw.changeButton": "Change"
 }
