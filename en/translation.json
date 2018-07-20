@@ -92,5 +92,12 @@
 	"register.field.password2": "Repeat Password",
 	"register.button.submit": "Submit",
 	"register.button.reset": "Reset",
-	"register.agreementInfo": "By clicking Submit you agree to our <a href=\"/legal/terms-of-service\" target=\"_blank\">Terms of Service</a> and <a href=\"/legal/privacy-policy\" target=\"_blank\">Privacy Policy</a>."
+	"register.agreementInfo": "By clicking Submit you agree to our <a href=\"/legal/terms-of-service\" target=\"_blank\">Terms of Service</a> and <a href=\"/legal/privacy-policy\" target=\"_blank\">Privacy Policy</a>.",
+	"authorize.headline": "Application Authorization",
+	"authorize.thisAppWill": "This application <b>will get access to</b>:",
+	"authorize.website": "Visit website",
+	"authorize.privacy": "View privacy policy",
+	"authorize.button.authorize": "Authorize",
+	"authorize.button.cancel": "Cancel",
+	"authorize.infoAlert": "<b>You can use your Gigadrive account to sign in to other websites and services.</b><br/>By clicking <em>Authorize</em>, you can use {0} without sharing your Gigadrive password."
 }
