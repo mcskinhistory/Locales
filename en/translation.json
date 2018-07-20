@@ -109,5 +109,6 @@
 	"forgotpw.headline": "Forgot your password?",
 	"forgotpw.field.email": "Email address",
 	"forgotpw.button.submit": "Submit",
-	"forgotpw.button.reset": "Reset"
+	"forgotpw.button.reset": "Reset",
+	"jobs.noJobOpenings": "There are currently no job openings available."
 }
