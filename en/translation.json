@@ -266,5 +266,6 @@
 	"store.buyGCoins": "Buy GCoins",
 	"store.yourGCoinBalance": "Your GCoin balance",
 	"support.article.lastUpdated": "Last updated",
-	"support.breadcrumb.home": "Home"
+	"support.breadcrumb.home": "Home",
+	"support.category.headline": "Category: \"{0}\""
 }
