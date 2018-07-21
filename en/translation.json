@@ -232,5 +232,6 @@
 	"account.sessions.current": "current session",
 	"account.sessions.logOut": "Log out",
 	"account.sessions.securityInfo.1": "Are you logged in somewhere you shouldn't be?",
-	"account.sessions.securityInfo.2": "Choosing a more secure password might help protect your account."
+	"account.sessions.securityInfo.2": "Choosing a more secure password might help protect your account.",
+	"account.verifyEmail.verified": "Your account has been verified. You can now login."
 }
