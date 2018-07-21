@@ -222,5 +222,6 @@
 	"account.info.avatar.headline": "Profile Picture",
 	"account.info.avatar.fileInfo": "Allowed file types: .jpg, .png, .gif | Max size: 1 MB<br/>Optimal resolution: 300x300 pixels",
 	"account.info.avatar.submit": "Submit",
-	"account.info.avatar.delete": "Delete current avatar"
+	"account.info.avatar.delete": "Delete current avatar",
+	"account.resetpw.invalidCombination": "That account/verfication key combination was not found."
 }
