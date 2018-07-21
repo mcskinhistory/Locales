@@ -250,7 +250,7 @@
 	"banned.vpn.headline": "It appears you are using a VPN.",
 	"banned.vpn.text": "In order to access this website, please disable any IP changing software such as VPN or proxies.",
 	"error.401.headline": "HTTP Error 401/Unauthorized",
-	"error.402.headline": "HTTP Error 402/Payment required",,
+	"error.402.headline": "HTTP Error 402/Payment required",
 	"error.403.headline": "HTTP Error 403/Forbidden",
 	"error.404.headline": "HTTP Error 404/Page not found",
 	"error.451.headline": "HTTP Error 451/Unavailable for legal reasons",
