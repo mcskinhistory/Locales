@@ -233,5 +233,10 @@
 	"account.sessions.logOut": "Log out",
 	"account.sessions.securityInfo.1": "Are you logged in somewhere you shouldn't be?",
 	"account.sessions.securityInfo.2": "Choosing a more secure password might help protect your account.",
-	"account.verifyEmail.verified": "Your account has been verified. You can now login."
+	"account.verifyEmail.verified": "Your account has been verified. You can now login.",
+	"admin.apiLog.key": "Key",
+	"admin.apiLog.ip": "IP",
+	"admin.apiLog.message": "Message",
+	"admin.apiLog.api": "API",
+	"admin.apiLog.time": "Time"
 }
