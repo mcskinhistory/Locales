@@ -261,5 +261,8 @@
 	"legal.contact.validity.headline": "Validity of information",
 	"legal.contact.validity.text": "This legal notice is valid for multiple websites. Click<a href=\"/legal/domains\">here</a> for a list of them.",
 	"legal.domains.headline": "Websites owned by Gigadrive",
-	"legal.domains.subdomains": "includes sub-domains"
+	"legal.domains.subdomains": "includes sub-domains",
+	"store.closed": "The store is currently closed.",
+	"store.buyGCoins": "Buy GCoins",
+	"store.yourGCoinBalance": "Your GCoin balance"
 }
