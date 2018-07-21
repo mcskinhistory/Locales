@@ -223,5 +223,14 @@
 	"account.info.avatar.fileInfo": "Allowed file types: .jpg, .png, .gif | Max size: 1 MB<br/>Optimal resolution: 300x300 pixels",
 	"account.info.avatar.submit": "Submit",
 	"account.info.avatar.delete": "Delete current avatar",
-	"account.resetpw.invalidCombination": "That account/verfication key combination was not found."
+	"account.resetpw.invalidCombination": "That account/verfication key combination was not found.",
+	"account.sessions.killed": "The session has been killed.",
+	"account.sessions.headline": "Currently active sessions",
+	"account.sessions.browserAndPlatform": "Browser & Platform",
+	"account.sessions.location": "Location",
+	"account.sessions.lastAccess": "Last access",
+	"account.sessions.current": "current session",
+	"account.sessions.logOut": "Log out",
+	"account.sessions.securityInfo.1": "Are you logged in somewhere you shouldn't be?",
+	"account.sessions.securityInfo.2": "Choosing a more secure password might help protect your account."
 }
