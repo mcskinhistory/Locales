@@ -238,5 +238,12 @@
 	"admin.apiLog.ip": "IP",
 	"admin.apiLog.message": "Message",
 	"admin.apiLog.api": "API",
-	"admin.apiLog.time": "Time"
+	"admin.apiLog.time": "Time",
+	"admin.users.search.placeholder": "Enter a search query",
+	"admin.users.search.title": "Search",
+	"admin.users.headline": "Users",
+	"admin.users.emailActivated": "Email activated",
+	"admin.users.emailActivated.yes": "Yes",
+	"admin.users.emailActivated.no": "No",
+	"admin.users.manageButton": "Manage"
 }
