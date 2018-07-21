@@ -268,5 +268,8 @@
 	"support.article.lastUpdated": "Last updated",
 	"support.breadcrumb.home": "Home",
 	"support.category.headline": "Category: \"{0}\"",
-	"support.search.headline": "Search: \"{0}\""
+	"support.search.headline": "Search: \"{0}\"",
+	"support.home.headline": "What do you need help with?",
+	"support.statusInfoAlert": "Is something offline? <a href=\"https://status.gigadrivegroup.com\" target=\"_blank\" class=\"alert-link\">Check our status page first!</a>",
+	"support.viewAll": "View all"
 }
