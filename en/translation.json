@@ -271,5 +271,19 @@
 	"support.search.headline": "Search: \"{0}\"",
 	"support.home.headline": "What do you need help with?",
 	"support.statusInfoAlert": "Is something offline? <a href=\"https://status.gigadrivegroup.com\" target=\"_blank\" class=\"alert-link\">Check our status page first!</a>",
-	"support.viewAll": "View all"
+	"support.viewAll": "View all",
+	"avitool.headline": "AviTool",
+	"avitool.what": "What is this tool?",
+	"avitool.what.text": "AviTool is a simple tool that lets you add pre-defined overlays to your social media avatars.<br/><br/>To get the best results, use a 500x500 picture. Any other square picture should do too.<br/><br/>If you use a rectangle image, the tool will automatically try to resize and crop the picture to fit, this might not give the best results.",
+	"avitool.overlay": "Add an overlay",
+	"avitool.overlay.gayPride": "Gay Pride Flag",
+	"avitool.overlay.july4th": "American Flag (4th of July)",
+	"avitool.overlay.germanFlag": "German Flag (3rd of October)",
+	"avitool.error.invalidOverlay": "Please select a valid overlay.",
+	"avitool.error.invalidExtension": "Invalid file extension.",
+	"avitool.error.invalidFile": "Please upload a file.",
+	"avitool.field.overlay": "Overlay",
+	"avitool.field.opacity": "Overlay opacity in %",
+	"avitool.fileInfo": "Allowed file types: {0} | Max size: 1 MB",
+	"avitool.submit": "Submit"
 }
