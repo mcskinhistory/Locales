@@ -264,5 +264,7 @@
 	"legal.domains.subdomains": "includes sub-domains",
 	"store.closed": "The store is currently closed.",
 	"store.buyGCoins": "Buy GCoins",
-	"store.yourGCoinBalance": "Your GCoin balance"
+	"store.yourGCoinBalance": "Your GCoin balance",
+	"support.article.lastUpdated": "Last updated",
+	"support.breadcrumb.home": "Home"
 }
