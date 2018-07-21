@@ -253,5 +253,13 @@
 	"error.402.headline": "HTTP Error 402/Payment required",,
 	"error.403.headline": "HTTP Error 403/Forbidden",
 	"error.404.headline": "HTTP Error 404/Page not found",
-	"error.451.headline": "HTTP Error 451/Unavailable for legal reasons"
+	"error.451.headline": "HTTP Error 451/Unavailable for legal reasons",
+	"legal.contact.headline": "Contact Info",
+	"legal.contact.address": "Address",
+	"legal.contact.address.onDemand": "on Demand",
+	"legal.contact.email": "Contact Email",
+	"legal.contact.validity.headline": "Validity of information",
+	"legal.contact.validity.text": "This legal notice is valid for multiple websites. Click<a href=\"/legal/domains\">here</a> for a list of them.",
+	"legal.domains.headline": "Websites owned by Gigadrive",
+	"legal.domains.subdomains": "includes sub-domains"
 }
