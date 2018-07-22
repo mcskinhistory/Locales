@@ -118,7 +118,7 @@ class i18n {
 		if(\CacheHandler::existsInCache($n)){
 			$this->locales = \CacheHandler::getFromCache($n);
 		} else {
-			$folder = $_SERVER["DOCUMENT_ROOT"] . "/library/i18n/Locales/" . self::$componentName . "/";
+			$folder = __DIR__ . "/" . self::$componentName . "/";
 
 			if(file_exists($folder) && is_dir($folder)){
 				// TODO

@@ -97,7 +97,7 @@ class Locale {
 	 * @access public
 	 */
 	public function reload(){
-		$folder = $_SERVER["DOCUMENT_ROOT"] . "/library/i18n/Locales/" . i18n::$componentName . "/" . $this->code . "/";
+		$folder = __DIR__ . "/" . i18n::$componentName . "/" . $this->code . "/";
 
 		if(file_exists($folder) && is_dir($folder)){
 			if(file_exists($folder . "translation.json") && file_exists($folder . "settings.json")){
