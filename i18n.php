@@ -45,11 +45,11 @@ class i18n {
 		$code = null;
 		if(isset($_COOKIE["lang"])){
 			$code = $_COOKIE["lang"];
-		}
 
-		$locale = self::getLocale($code);
-		if(!is_null($locale))
-			return $locale;
+			$locale = self::getLocale($code);
+			if(!is_null($locale))
+				return $locale;
+		}
 
 		// TODO: Check for settings associated with the user's account and the browser language
 		return self::getLocale("en");
