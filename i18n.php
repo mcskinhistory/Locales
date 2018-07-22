@@ -118,13 +118,28 @@ class i18n {
 		if(\CacheHandler::existsInCache($n)){
 			$this->locales = \CacheHandler::getFromCache($n);
 		} else {
+			$this->locales = [];
+
 			$folder = __DIR__ . "/" . self::$componentName . "/";
 
 			if(file_exists($folder) && is_dir($folder)){
-				// TODO
+				$files = glob($folder . "*");
+
+				foreach($files as $file){
+					if(is_dir($file)){
+						$dirName = dirname($file);
+
+						$locale = new Locale($dirName);
+						$locale->reload();
+						
+						if($locale->isValid()){
+							$this->locales[$locale->getCode()] = $locale;
+						}
+					}
+				}
 			}
 
-			// TODO: Save to cache
+			\CacheHandler::setToCache($n,$this->locales,20*60);
 		}
 	}
 
