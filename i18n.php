@@ -2,6 +2,9 @@
 
 namespace Gigadrive\i18n;
 
+use Gigadrive\Util\Util;
+
+
 /**
  * Internationalization utilities
  * 
@@ -51,9 +54,35 @@ class i18n {
 				return $locale;
 		}
 
-		// TODO: Check for settings associated with the user's account and the browser language
+		$browser = self::getBrowserLanguage();
+		if($browser != "en"){
+			$locale = self::getLocale($browser);
+			if(!is_null($locale))
+				return $locale;
+
+			foreach(self::Instance()->getLocales() as $locale){
+				if(self::startsWith($locale->getCode(),$browser,true)){
+					return $locale;
+				}
+			}
+		}
+
 		return self::getLocale("en");
 	}
+
+	/**
+	 * Gets the user's browser language
+	 * 
+	 * @access public
+	 * @param string $default The default to be returned in case the browser did not send the language (e.g. Googlebot)
+	 * @return string A 2 character language code
+	 */
+	public static function getBrowserLanguage($default = "en") {
+        if (!isset($_SERVER['HTTP_ACCEPT_LANGUAGE']))
+			return $default;
+			
+        return strtolower(substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2));
+    }
 
 	/**
 	 * Returns a locale defined by the code passed, if the locale can't be found it will default to English, if English can't be found it will return null
