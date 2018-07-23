@@ -285,5 +285,14 @@
 	"avitool.field.overlay": "Overlay",
 	"avitool.field.opacity": "Overlay opacity in %",
 	"avitool.fileInfo": "Allowed file types: {0} | Max size: 1 MB",
-	"avitool.submit": "Submit"
+	"avitool.submit": "Submit",
+	"home.noPermission": "You are not allowed to view that page.",
+	"home.nightMode.on": "You are now using the night mode.",
+	"home.nightMode.off": "You are no longer using the night mode.",
+	"home.slideshow.yoshino.description": "A fast and reliable chat bot for Twitch, Discord and YouTube",
+	"home.slideshow.visitWebsite": "Visit website",
+	"home.slideshow.skinhistory.description": "Track your Minecraft skins and capes",
+	"home.slideshow.kostenloswlan.description": "A german list of free public wireless LAN hotspots",
+	"home.slideshow.previous": "Previous",
+	"home.slideshow.next": "Next"
 }
