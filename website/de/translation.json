@@ -273,5 +273,16 @@
 	"avitool.field.overlay": "Overlay",
 	"avitool.field.opacity": "Overlay Durchsichtigkeit in %",
 	"avitool.fileInfo": "Erlaubte Dateitypen: {0} | Maximale Größe: 1 MB",
-	"avitool.submit": "Absenden"
+	"avitool.submit": "Absenden",
+	"home.noPermission": "Du darfst diese Seite nicht betrachten.",
+	"home.nightMode.on": "Du verwendest nun den Nachtmodus.",
+	"home.nightMode.off": "Du verwendest nun nicht mehr den Nachtmodus.",
+	"home.slideshow.visitWebsite": "Webseite besuchen",
+	"home.slideshow.kostenloswlan.description": "Eine deutsche Liste für kostenlose, öffentliche WLAN Hotspots",
+	"home.slideshow.previous": "Zurück",
+	"home.slideshow.next": "Weiter",
+	"api.v3.scope.user:info": "Benutzername und Profilbild",
+	"api.v3.scope.user:email": "Email Adresse",
+	"api.v3.scope.user:address": "Echter Name und Adresse",
+	"api.v3.scope.user:external": "Externe Konten"
 }
