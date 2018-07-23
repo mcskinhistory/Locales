@@ -294,5 +294,9 @@
 	"home.slideshow.skinhistory.description": "Track your Minecraft skins and capes",
 	"home.slideshow.kostenloswlan.description": "A german list of free public wireless LAN hotspots",
 	"home.slideshow.previous": "Previous",
-	"home.slideshow.next": "Next"
+	"home.slideshow.next": "Next",
+	"api.v3.scope.user:info": "Username and profile picture",
+	"api.v3.scope.user:email": "Email Address",
+	"api.v3.scope.user:address": "Real name and address",
+	"api.v3.scope.user:external": "External accounts"
 }
