@@ -305,5 +305,7 @@
 	"mail.verifyEmail.text": "To complete the creation of your Gigadrive account, please click the button below and verify your email address.",
 	"mail.verifyEmail.callToAction": "Verify",
 	"mail.verifyEmail.headline.2": "You did not register on gigadrivegroup.com?",
-	"mail.verifyEmail.dontWorry": "Don't worry! Simply ignore this email and the account registered with this email address will be deleted in 2 weeks."
+	"mail.verifyEmail.dontWorry": "Don't worry! Simply ignore this email and the account registered with this email address will be deleted in 2 weeks.",
+	"mail.unsubscribeText.1": "You don't want to receive this type of emails?",
+	"mail.unsubscribeText.2": "Click here to change your email settings or unsubscribe."
 }
