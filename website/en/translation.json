@@ -163,6 +163,7 @@
 	"account.createapp.field.website": "Website",
 	"account.createapp.field.redirect": "Redirect URL",
 	"account.createapp.field.delete": "Delete URL",
+	"account.createapp.deleteInfo": "By clicking on \"Create\", you verify that the link specified in the \"Delete URL\" field is a valid POST script that removes all data of a specific users on your application's records. Specifying a false link for your deletion script might result in the termination of your application and your account.",
 	"account.createapp.field.privacy": "Privacy Policy",
 	"account.createapp.createButton": "Create",
 	"account.info.headline": "Account Information",
