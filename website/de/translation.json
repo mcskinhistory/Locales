@@ -284,5 +284,12 @@
 	"api.v3.scope.user:info": "Benutzername und Profilbild",
 	"api.v3.scope.user:email": "Email Adresse",
 	"api.v3.scope.user:address": "Echter Name und Adresse",
-	"api.v3.scope.user:external": "Externe Konten"
+	"api.v3.scope.user:external": "Externe Konten",
+	"mail.verifyEmail.title": "Gigadrive: Bestätige deine Email Adresse",
+	"mail.verifyEmail.headline.1": "Beende deine Gigadrive Registrierung!",
+	"mail.verifyEmail.hello": "Hallo, {0}!",
+	"mail.verifyEmail.text": "Um die Erstellung deines Gigadrive Kontos zu beenden, klicke bitte auf den folgenden Button und bestätige deine Email Adresse.",
+	"mail.verifyEmail.callToAction": "Bestätigen",
+	"mail.verifyEmail.headline.2": "Du hast dich nicht auf gigadrivegroup.com registriert?",
+	"mail.verifyEmail.dontWorry": "Keine Sorge. Ignoriere diese email einfach und das Konto mit dieser Email Adresse wird in 2 Wochen entfernt."
 }
