@@ -96,8 +96,11 @@ class Locale {
 	 * 
 	 * @access public
 	 */
-	public function reload(){
-		$folder = __DIR__ . "/" . i18n::$componentName . "/" . $this->code . "/";
+	public function reload($componentName){
+		if(is_null($componentName))
+			$componentName = i18n::Instance()->getComponentName();
+		
+		$folder = __DIR__ . "/" . $componentName . "/" . $this->code . "/";
 
 		if(file_exists($folder) && is_dir($folder)){
 			if(file_exists($folder . "translation.json") && file_exists($folder . "settings.json")){
@@ -138,7 +141,7 @@ class Locale {
 	 * @return string
 	 */
 	public function getTranslatedMessage($phrase, $variables = null){
-		$phrase = trim(strtolower($phrase));
+		$phrase = trim($phrase);
 
 		if(array_key_exists($phrase,$this->phrases)){
 			$r = $this->phrases[$phrase];

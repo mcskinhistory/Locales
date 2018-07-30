@@ -18,7 +18,7 @@ class i18n {
 	 * @access public
 	 * @var string $componentName The locale component name (subfolder)
 	 */
-	public static $componentName;
+	public $componentName;
 
 	/**
 	 * Returns a translated phrase by ID, replacing variables, uses the locale found in i18n::getCurrentLanguage()
@@ -34,7 +34,7 @@ class i18n {
 		if(!is_null($l)){
 			return $l->getTranslatedMessage($phrase,$variables);
 		} else {
-			return trim(strtolower($phrase));
+			return trim($phrase);
 		}
 	}
 
@@ -118,10 +118,10 @@ class i18n {
 	 * @access public
 	 * @return i18n
 	 */
-	public static function Instance(){
+	public static function Instance($componentName = null){
 		static $inst = null;
-		if($inst == null){
-			$inst = new self(LOCALE_COMPONENT);
+		if(is_null($inst)){
+			$inst = new self($componentName);
 		}
 
 		return $inst;
@@ -132,8 +132,9 @@ class i18n {
 	 * 
 	 * @access protected
 	 */
-	protected function __construct(){
-		$this->loadLocales();	
+	protected function __construct($componentName){
+		$this->componentName = $componentName;
+		$this->loadLocales();
 	}
 
 	/**
@@ -147,28 +148,30 @@ class i18n {
 		if(\CacheHandler::existsInCache($n)){
 			$this->locales = \CacheHandler::getFromCache($n);
 		} else {
-			$this->locales = [];
+			if(is_null($this->locales)){
+				$this->locales = [];
 
-			$folder = __DIR__ . "/" . self::$componentName . "/";
+				$folder = __DIR__ . "/" . $this->componentName . "/";
 
-			if(file_exists($folder) && is_dir($folder)){
-				$files = glob($folder . "*");
+				if(file_exists($folder) && is_dir($folder)){
+					$files = glob($folder . "*");
 
-				foreach($files as $file){
-					if(is_dir($file)){
-						$dirName = dirname($file);
+					foreach($files as $file){
+						if(is_dir($file)){
+							$dirName = basename($file);
 
-						$locale = new Locale($dirName);
-						$locale->reload();
-						
-						if($locale->isValid()){
-							$this->locales[$locale->getCode()] = $locale;
+							$locale = new Locale($dirName);
+							$locale->reload($this->componentName);
+							
+							if($locale->isValid()){
+								$this->locales[$locale->getCode()] = $locale;
+							}
 						}
 					}
 				}
-			}
 
-			\CacheHandler::setToCache($n,$this->locales,20*60);
+				\CacheHandler::setToCache($n,$this->locales,20*60);
+			}
 		}
 	}
 
@@ -180,5 +183,15 @@ class i18n {
 	 */
 	public function getLocales(){
 		return $this->locales;
+	}
+
+	/**
+	 * Returns the component name
+	 * 
+	 * @access public
+	 * @return string
+	 */
+	public function getComponentName(){
+		return $this->componentName;
 	}
 }
