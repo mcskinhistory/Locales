@@ -92,7 +92,7 @@ class i18n {
 	 * @return string
 	 */
 	public static function getLocale($code){
-		$code = trim(strtolower($code));
+		$code = empty($code) ? "en" : trim(strtolower($code));
 		$i = self::Instance();
 
 		if(array_key_exists($code,$i->getLocales())){
