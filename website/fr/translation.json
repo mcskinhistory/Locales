@@ -32,5 +32,20 @@
     "footer.store.gcoins": "GCoins",
     "footer.store.software": "Logiciel",
     "footer.store.games": "Jeux",
-    "footer.store.services": "Services"
+    "footer.store.services": "Services",
+    "footer.products": "Produits",
+    "footer.about": "A propos de Gigadrive",
+    "footer.about.history": "Histoire",
+    "footer.about.people": "Personnes",
+    "footer.about.jobs": "Travails",
+    "footer.nightmode.enable": "Activer le mode nuit",
+    "footer.nightmode.disable": "Désactiver le mode nuit",
+    "footer.contact": "Contact",
+    "footer.status": "Statut du serveur",
+    "pageTitle.login": "Connexion à Gigadrive",
+    "login.error.alreadyLoggedIn": "Tu es déjà connecté.",
+    "login.error.twitchNoAccountFound": "Il n'y a aucun compte Gigadrive lié à ce compte Twitch.",
+    "login.error.discordNoAccountFound": "Il n'y a aucun compte Gigadrive lié à ce compte Discord.",
+    "errorOccurred": "Une erreur est survenue.",
+    "login.error.externalServiceMissing": "Il te manque le service suivant : {0}<br/><br/> Pour pouvoir te connecter, tu dois avoir ce service de lié. \n<a href='/account/external-accounts' target='_blank'> Clique ici pour plus d'informations</a>"
 }
