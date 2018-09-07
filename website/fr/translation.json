@@ -15,5 +15,8 @@
     "adminNav.headline": "Administration",
     "adminNav.home": "Accueil",
     "adminNav.users": "Utilisateurs",
-    "adminNav.bans": "Bannis"
+    "adminNav.bans": "Bannis",
+    "adminNav.ipManagement": "Gestion des IP",
+    "adminNav.helpDesk": "Bureau d'aide",
+    "adminNav.sessions": "Sessions"
 }
