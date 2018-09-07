@@ -18,5 +18,16 @@
     "adminNav.bans": "Bannis",
     "adminNav.ipManagement": "Gestion des IP",
     "adminNav.helpDesk": "Bureau d'aide",
-    "adminNav.sessions": "Sessions"
+    "adminNav.sessions": "Sessions",
+    "adminNav.apiKeys": "Clés d'API",
+    "adminNav.apiLog": "Log de l'API",
+    "adminNav.loginKeys": "Clés de connexion",
+    "footer.followGigadrive": "Suivre Gigadrive",
+    "footer.legal": "Légal",
+    "footer.legal.contactInfo": "Infos de contact",
+    "footer.legal.tos": "Conditions d'utilisation",
+    "footer.legal.privacy": "Politique de confidentialité",
+    "footer.legal.disclaimer": "Avertissement",
+    "footer.store": "Boutique",
+    "footer.store.gcoins": "GCoins"
 }
