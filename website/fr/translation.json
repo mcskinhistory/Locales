@@ -47,5 +47,9 @@
     "login.error.twitchNoAccountFound": "Il n'y a aucun compte Gigadrive lié à ce compte Twitch.",
     "login.error.discordNoAccountFound": "Il n'y a aucun compte Gigadrive lié à ce compte Discord.",
     "errorOccurred": "Une erreur est survenue.",
-    "login.error.externalServiceMissing": "Il te manque le service suivant : {0}<br/><br/> Pour pouvoir te connecter, tu dois avoir ce service de lié. \n<a href='/account/external-accounts' target='_blank'> Clique ici pour plus d'informations</a>"
+    "login.error.externalServiceMissing": "Il te manque le service suivant : {0}<br/><br/> Pour pouvoir te connecter, tu dois avoir ce service de lié. \n<a href='/account/external-accounts' target='_blank'> Clique ici pour plus d'informations</a>.",
+    "login.success": "Connecté avec succès.",
+    "login.error.couldNotCreateLoginKey": "Impossible de créer une clé de connexion.",
+    "login.error.banned": "Ton compté a été banni de site internet.",
+    "login.error.banned.reason": "Ton compté a été banni de site internet.<br/><br/> Raison : {0}"
 }
