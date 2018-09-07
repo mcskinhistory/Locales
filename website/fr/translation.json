@@ -8,5 +8,12 @@
     "accountNav.info": "Info du compte",
     "accountNav.api": "Paramètres de l'API",
     "accountNav.external": "Comptes externes",
-    "accountNav.apps": "Applications"
+    "accountNav.apps": "Applications",
+    "accountNav.sessions": "Sessions actives",
+    "accountNav.password": "Changer ton mot de passe",
+    "accountNav.logout": "Déconnexion",
+    "adminNav.headline": "Administration",
+    "adminNav.home": "Accueil",
+    "adminNav.users": "Utilisateurs",
+    "adminNav.bans": "Bannis"
 }
