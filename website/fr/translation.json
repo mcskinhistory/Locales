@@ -1,1 +1,12 @@
-{}
+{
+    "nav.home": "Accueil",
+    "nav.community": "Communauté",
+    "nav.support": "Support",
+    "nav.store": "Boutique",
+    "nav.blog": "Blog",
+    "nav.signin": "Se connecter",
+    "accountNav.info": "Info du compte",
+    "accountNav.api": "Paramètres de l'API",
+    "accountNav.external": "Comptes externes",
+    "accountNav.apps": "Applications"
+}
