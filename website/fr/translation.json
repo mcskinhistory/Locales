@@ -29,5 +29,8 @@
     "footer.legal.privacy": "Politique de confidentialité",
     "footer.legal.disclaimer": "Avertissement",
     "footer.store": "Boutique",
-    "footer.store.gcoins": "GCoins"
+    "footer.store.gcoins": "GCoins",
+    "footer.store.software": "Logiciel",
+    "footer.store.games": "Jeux",
+    "footer.store.services": "Services"
 }
