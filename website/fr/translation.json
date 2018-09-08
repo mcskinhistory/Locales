@@ -65,5 +65,5 @@
     "api.v2.scope.gcoins": "Ton montant de Gcoins",
     "api.v2.scope.externalAccounts": "Tes comptes externes liés",
     "login.v2.authInfo": "Merci de prendre en compte, qu'en vous connectant ici, {0} aura accès aux données de ton compte suivantes :",
-    "login.signInButton": "Se connecter"
+    "login.signInButton": "S'inscrire"
 }
