@@ -65,5 +65,17 @@
     "api.v2.scope.gcoins": "Ton montant de Gcoins",
     "api.v2.scope.externalAccounts": "Tes comptes externes liés",
     "login.v2.authInfo": "Merci de prendre en compte, qu'en vous connectant ici, {0} aura accès aux données de ton compte suivantes :",
-    "login.signInButton": "S'inscrire"
+    "login.signInButton": "S'inscrire",
+    "login.withTwitch": "Se connecter avec Twitch",
+    "login.withDiscord": "Se connecter avec Discord",
+    "login.createAccount": "Créer un compte",
+    "login.forgotPassword": "Mot de passe oublié ?",
+    "login.processing": "Connexion en cours...",
+    "register.error.alreadyRegistered": "Tu es déjà inscris.",
+    "register.error.nameInUse": "Ce pseudo est déjà utilisé.",
+    "register.error.mailInUse": "Cette adresse mail est déjà utilisée.",
+    "register.error.nameMustBeAlphaNumeric": "Ton pseudo ne doit être composé que de caractère alpha-numérique (Seulement des lettres et des nombres !)",
+    "register.error.nameTooShort": "Ce pseudo est trop court (Mini 3)",
+    "register.error.nameTooLong": "Ce pseudo est trop long (Maxi 16)",
+    "register.error.passwordTooShort": "Le mot de passe est trop court (Mini 3)"
 }
