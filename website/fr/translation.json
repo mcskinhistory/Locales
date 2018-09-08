@@ -51,5 +51,15 @@
     "login.success": "Connecté avec succès.",
     "login.error.couldNotCreateLoginKey": "Impossible de créer une clé de connexion.",
     "login.error.banned": "Ton compté a été banni de site internet.",
-    "login.error.banned.reason": "Ton compté a été banni de site internet.<br/><br/> Raison : {0}"
+    "login.error.banned.reason": "Ton compté a été banni de site internet.<br/><br/> Raison : {0}",
+    "login.error.emailNotActivated": "Ton compte n'a pas encore été activé. Merci de vérifier ta boite mail avant de te reconnecter.",
+    "login.error.wrongPassword": "Mot de passe invalide.",
+    "login.error.wrongPassword.outdatedAccount": "Mot de passe invalide. <br/><br/><b> Ton compte semble avoir été créé avant le 15 avril 2018. Ton mot de passe a donc été bloqué. Pour obtenir de nouveau accès à ton compte, merci de <a href='/forgotpw'>réinitialiser ton mot de passe </a>.</b>",
+    "login.error.invalidEmail": "Impossibilité de trouver une adresse mail identique dans notre base de données.",
+    "login.error.fillAllFields": "Merci de remplir les deux champs.",
+    "login.field.email": "Adresse mail",
+    "login.field.password": "Mot de passe",
+    "api.v2.scope.identify": "Ton pseudo et l'ID de ton compte",
+    "api.v2.scope.email": "Ton adresse mail",
+    "api.v2.scope.location": "Ta position"
 }
