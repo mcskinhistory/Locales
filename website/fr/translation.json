@@ -99,5 +99,6 @@
     "authorize.privacy": "Voir la politique de confidentialité",
     "authorize.button.authorize": "Autoriser",
     "authorize.button.cancel": "Annuler",
-    "authorize.infoAlert": "<b>Tu peux utiliser ton compte Gigadrive pour t'inscrire sur les autres sites et services webs.</b><br/>En cliquant sur <em>Autoriser</em>, tu pourras utiliser {0} sans partager ton mot de passer Gigadrive."
+    "authorize.infoAlert": "<b>Tu peux utiliser ton compte Gigadrive pour t'inscrire sur les autres sites et services webs.</b><br/>En cliquant sur <em>Autoriser</em>, tu pourras utiliser {0} sans partager ton mot de passe Gigadrive.",
+    "badbrowser.title": "Tu utilises un navigateur obsolète."
 }
