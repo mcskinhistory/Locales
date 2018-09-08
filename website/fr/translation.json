@@ -61,5 +61,9 @@
     "login.field.password": "Mot de passe",
     "api.v2.scope.identify": "Ton pseudo et l'ID de ton compte",
     "api.v2.scope.email": "Ton adresse mail",
-    "api.v2.scope.location": "Ta position"
+    "api.v2.scope.location": "Ta position",
+    "api.v2.scope.gcoins": "Ton montant de Gcoins",
+    "api.v2.scope.externalAccounts": "Tes comptes externes liés",
+    "login.v2.authInfo": "Merci de prendre en compte, qu'en vous connectant ici, {0} aura accès aux données de ton compte suivantes :",
+    "login.signInButton": "Se connecter"
 }
