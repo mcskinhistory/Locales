@@ -102,5 +102,12 @@
     "authorize.infoAlert": "<b>Tu peux utiliser ton compte Gigadrive pour t'inscrire sur les autres sites et services webs.</b><br/>En cliquant sur <em>Autoriser</em>, tu pourras utiliser {0} sans partager ton mot de passe Gigadrive.",
     "badbrowser.title": "Tu utilises un navigateur obsolète.",
     "badbrowser.jsAndCookies": "Les cookies et JavaScript doivent être supportés pour pouvoir utiliser ce site web.",
-    "badbrowser.browserInfoText": "Pour pouvoir utiliser toutes les fonctions du sites, nous vous recommandons de télécharger et d'installer un de ces navigateurs internet."
+    "badbrowser.browserInfoText": "Pour pouvoir utiliser toutes les fonctions du sites, nous vous recommandons de télécharger et d'installer un de ces navigateurs internet:",
+    "forgotpw.error.mailNotSent": "L'email n'a pas pu être envoyé.",
+    "forgotpw.error.accountNotFound": "Aucun compte correspondant.",
+    "forgotpw.headline": "Mot de passe oublié ?",
+    "forgotpw.field.email": "Adresse mail",
+    "forgotpw.button.submit": "Soumettre",
+    "forgotpw.button.reset": "Remise à zéro",
+    "jobs.noJobOpenings": "Il n'y a actuellement aucune offre d'emploi disponible."
 }
