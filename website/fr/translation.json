@@ -110,5 +110,14 @@
     "forgotpw.button.submit": "Soumettre",
     "forgotpw.button.reset": "Remise à zéro",
     "jobs.noJobOpenings": "Il n'y a actuellement aucune offre d'emploi disponible.",
-    "account.api.deprecated": "Comme annoncé le 11 juillet 2018, nous publierons bientôt la version 3 de l'API de connexion, qui remplacera la version 1 & 2 ainsi que l'API. Si vous utilisez encore la version 1 ou 2, veuillez vous préparer aux changements futurs et passer à la version 3 dès que possible<br/><b><a href=\"https://blog.gigadrivegroup.com/2018/07/login-api-v3/\" target=\"_blank\"> Plus d'informations sur la version 3 sont disponibles ici</a></b>."
+    "account.api.deprecated": "Comme annoncé le 11 juillet 2018, nous publierons bientôt la version 3 de l'API de connexion, qui remplacera la version 1 & 2 ainsi que les clés API. Si vous utilisez encore la version 1 ou 2, veuillez vous préparer aux changements futurs et passer à la version 3 dès que possible<br/><b><a href=\"https://blog.gigadrivegroup.com/2018/07/login-api-v3/\" target=\"_blank\"> Plus d'informations sur la version 3 sont disponibles ici</a></b>.",
+    "account.api.keyCreated": "Votre clé API a été créée. Assurez-vous de la garder privé !",
+    "account.api.error.alreadyHaveAKey": "Vous avez déjà une clé API.",
+    "account.api.headline": "Paramètres de l'API",
+    "account.api.noKey": "Vous n'avez actuellement pas de clé API.",
+    "account.api.clickToGenerate": "Cliquez pour générer une nouvelle clé",
+    "account.api.yourKey": "Votre clé API :",
+    "account.api.accessAt": "Vous pouvez accéder à l'API via {0}.",
+    "account.api.documentationLink": "Documentation : (bientôt disponible)",
+    "account.apps.authorized.headline": "Applications autorisée"
 }
