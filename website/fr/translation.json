@@ -102,12 +102,13 @@
     "authorize.infoAlert": "<b>Tu peux utiliser ton compte Gigadrive pour t'inscrire sur les autres sites et services webs.</b><br/>En cliquant sur <em>Autoriser</em>, tu pourras utiliser {0} sans partager ton mot de passe Gigadrive.",
     "badbrowser.title": "Tu utilises un navigateur obsolète.",
     "badbrowser.jsAndCookies": "Les cookies et JavaScript doivent être supportés pour pouvoir utiliser ce site web.",
-    "badbrowser.browserInfoText": "Pour pouvoir utiliser toutes les fonctions du sites, nous vous recommandons de télécharger et d'installer un de ces navigateurs internet:",
+    "badbrowser.browserInfoText": "Pour pouvoir utiliser toutes les fonctions du sites, nous vous recommandons de télécharger et d'installer un de ces navigateurs internet :",
     "forgotpw.error.mailNotSent": "L'email n'a pas pu être envoyé.",
     "forgotpw.error.accountNotFound": "Aucun compte correspondant.",
     "forgotpw.headline": "Mot de passe oublié ?",
     "forgotpw.field.email": "Adresse mail",
     "forgotpw.button.submit": "Soumettre",
     "forgotpw.button.reset": "Remise à zéro",
-    "jobs.noJobOpenings": "Il n'y a actuellement aucune offre d'emploi disponible."
+    "jobs.noJobOpenings": "Il n'y a actuellement aucune offre d'emploi disponible.",
+    "account.api.deprecated": "Comme annoncé le 11 juillet 2018, nous publierons bientôt la version 3 de l'API de connexion, qui remplacera la version 1 & 2 ainsi que l'API. Si vous utilisez encore la version 1 ou 2, veuillez vous préparer aux changements futurs et passer à la version 3 dès que possible<br/><b><a href=\"https://blog.gigadrivegroup.com/2018/07/login-api-v3/\" target=\"_blank\"> Plus d'informations sur la version 3 sont disponibles ici</a></b>"
 }
