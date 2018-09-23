@@ -119,5 +119,5 @@
     "account.api.yourKey": "Votre clé API :",
     "account.api.accessAt": "Vous pouvez accéder à l'API via {0}.",
     "account.api.documentationLink": "Documentation : (bientôt disponible)",
-    "account.apps.authorized.headline": "Applications autorisée"
+    "account.apps.authorized.headline": "Applications autorisées"
 }
