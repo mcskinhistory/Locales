@@ -310,5 +310,6 @@
 	"mail.unsubscribeText.1": "You don't want to receive this type of emails?",
 	"mail.unsubscribeText.2": "Click here to change your email settings or unsubscribe.",
 	"store.closed.text": "Please come back later.",
-	"home.slideshow.qpost.description": "A new, microblogging-focused social networking website"
+	"home.slideshow.qpost.description": "A new, microblogging-focused social networking website",
+	"dev.technologies.headline": "Technologies"
 }
