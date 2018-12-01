@@ -1,6 +1,6 @@
-# Gigadrive Internationalization
-[![Discord](https://discordapp.com/api/guilds/389140727243735053/embed.png)](https://gigadrivegroup.com/community)
-[![Weblate](https://translate-yoshino.gigadrivegroup.com/weblate/widgets/gigadrive/-/website/svg-badge.svg)](https://gigadrivegroup.com/translate)
+# MCSkinHistory.com Internationalization
+[![Discord](https://discordapp.com/api/guilds/509312692394393601/embed.png)](https://mcskinhistory.com/discord)
+[![Weblate](https://translate.gigadrivegroup.com/weblate/widgets/mcskinhistory/-/website/svg-badge.svg)](https://mcskinhistory.com/translate)
 
 ## Contribute
-Please visit our [Weblate page](https://gigadrivegroup.com/translate) to contribute. To become a proofreader, please contact a staff member on our [Discord server](https://gigadrivegroup.com/community) or email [support@gigadrivegroup.com](mailto:support@gigadrivegroup.com).
+Please visit our [Weblate page](https://mcskinhistory.com/translate) to contribute. To become a confirmed translator, please contact a staff member on our [Discord server](https://mcskinhistory.com/discord).
