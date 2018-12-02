@@ -2,5 +2,6 @@
     "navigation.home": "Start",
     "navigation.skins": "Skins",
     "navigation.skins.browse": "Durchsuchen",
-    "navigation.skins.new": "Neu"
+    "navigation.skins.new": "Neu",
+    "navigation.skins.popular": "Beliebt"
 }
