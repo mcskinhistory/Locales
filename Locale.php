@@ -103,14 +103,9 @@ class Locale {
 		$folder = __DIR__ . "/" . $componentName . "/" . $this->code . "/";
 
 		if(file_exists($folder) && is_dir($folder)){
-			if(file_exists($folder . "translation.json") && file_exists($folder . "settings.json")){
-				$settings = json_decode(file_get_contents($folder . "settings.json"),true);
-
-				if(isset($settings["name"]))
-					$this->name = $settings["name"];
-
-				if(isset($settings["localizedName"]))
-					$this->localizedName = $settings["localizedName"];
+			if(file_exists($folder . "translation.json")){
+				$this->name = locale_get_display_language($this->code,"en");
+				$this->localizedName = locale_get_display_language($this->code,$this->code);
 
 				$translation = json_decode(file_get_contents($folder . "translation.json"),true);
 
