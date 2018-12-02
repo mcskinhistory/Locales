@@ -21,5 +21,13 @@
     "navigation.account.logout": "Log out",
     "navigation.account.favorites": "Favorites",
     "navigation.account.linkedMinecraftAccounts": "Linked Minecraft accounts",
-    "navigation.account.myAccount": "My Account"
+    "navigation.account.myAccount": "My Account",
+    "footer.legal.notice": "Legal Notice",
+    "footer.legal.tos": "Terms of Service",
+    "footer.legal.privacy": "Privacy Policy",
+    "footer.legal.disclaimer": "Disclaimer",
+    "footer.legal.refunds": "Refund Policy",
+    "footer.important.changelogs": "Changelogs",
+    "footer.important.statistics": "Statistics",
+    "footer.copyright.rightsReserved": "All rights reserved."
 }
