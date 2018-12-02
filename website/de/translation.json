@@ -120,5 +120,13 @@
     "faq.4.question": "Könnt ihr mich hinzufügen?",
     "faq.4.answer": "Du kannst dein Minecraft-Konto einfach hinzufügen in dem du deinen Namen in der Suche eingibst. Es könnte sein, dass du bereits von jemandem den du kennst hinzugefügt wurdest.",
     "faq.5.question": "Kann mein Benutzer entfernt werden?",
-    "faq.5.answer": "Kein Benutzwer wird je von MCSkinHistory.com entfernt werden."
+    "faq.5.answer": "Kein Benutzwer wird je von MCSkinHistory.com entfernt werden",
+    "faq.6.question": "Kann mein Skin heruntergeladen werden?",
+    "faq.6.answer": "Ja. Jeder der dein <a {0}>Profil</a> besucht, kann deinen Skin herunterladen.",
+    "faq.7.question": "Wie erkennt ihr Skin Veränderungen?",
+    "faq.7.answer": "Unser Bot geht durch alle Spieler in unserer Datenbank. Sobald der Skin eines Spielers anders ist, wird der neue Skin auf unseren Servern gespeichert.",
+    "faq.8.question": "Kann ich spenden?",
+    "faq.8.answer": "Natürlich! Danke für dein Interesse uns zu unterstützen. Klicke <a {0}>hier</a> für mehr Informationen.",
+    "favorites.headline": "Favoriten",
+    "favorites.skins": "Skins"
 }
