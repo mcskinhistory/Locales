@@ -111,5 +111,14 @@
     "faq.headline": "Häufig gestellte Fragen",
     "faq.description": "Hast du Fragen über MCSkinHistory oder benötigst Hilfe? Schau dir diese Liste zuerst an!",
     "faq.lastUpdate": "Letzte Aktualisierung: {0}",
-    "faq.1.question": "Was ist das für eine Seite?"
+    "faq.1.question": "Was ist das für eine Seite?",
+    "faq.1.answer": "Diese Seite ist eine inoffizielle Datenbank für Premium Minecraft Benutzer. Sobald ein Nutzer hinzugefügt wurde, wird dessen Skin auf unseren Servern gespeichert, sowie jeder Skin den dieser Benutzer in der Zukunft haben wird. Das erlaubt Nutzern ihre alten Skins wiederherzustellen, falls sie diesen verloren haben.",
+    "faq.2.question": "Warum fehlen manche von meinen Skins?",
+    "faq.2.answer": "Wir haben am 25. April 2016 angefangen Daten zu sammeln. Alle Skins die du davor verwendet hast, wirst du nicht auf MCSkinHistory finden, da Mojang keinen Weg anbietet diese Skins selbst wiederherzustellen. Außerdem werden deine Skins nur gespeichert wenn du bereits in unserer Datenbank bist. Falls du unsicher bist ob das auf dich zutrifft, gib einfach deinen Namen in der Suche ein. Sobald dein Profil lädt, bist du in unserer Datenbank.",
+    "faq.3.question": "Warum ist mein Benutzer hier?",
+    "faq.3.answer": "Ein Spieler wird dieser Webseite hinzugefügt wenn jemand den Namen eines Premium Minecraft-Kontos auf unserer Seite eingibt, oder unser Bot den Namen auf einer Minecraft bezogenen Webseite findet.",
+    "faq.4.question": "Könnt ihr mich hinzufügen?",
+    "faq.4.answer": "Du kannst dein Minecraft-Konto einfach hinzufügen in dem du deinen Namen in der Suche eingibst. Es könnte sein, dass du bereits von jemandem den du kennst hinzugefügt wurdest.",
+    "faq.5.question": "Kann mein Benutzer entfernt werden?",
+    "faq.5.answer": "Kein Benutzwer wird je von MCSkinHistory.com entfernt werden."
 }
