@@ -21,6 +21,12 @@ class i18n {
 	public $componentName;
 
 	/**
+	 * @access public
+	 * @var bool $enableCache Whether to cache the locale phrases (default: true).
+	 */
+	public $enableCache = true;
+
+	/**
 	 * Returns a translated phrase by ID, replacing variables, uses the locale found in i18n::getCurrentLanguage()
 	 * 
 	 * @access public
@@ -118,10 +124,10 @@ class i18n {
 	 * @access public
 	 * @return i18n
 	 */
-	public static function Instance($componentName = null){
+	public static function Instance($componentName = null, $enableCache = true){
 		static $inst = null;
 		if(is_null($inst)){
-			$inst = new self($componentName);
+			$inst = new self($componentName,$enableCache);
 		}
 
 		return $inst;
@@ -132,8 +138,10 @@ class i18n {
 	 * 
 	 * @access protected
 	 */
-	protected function __construct($componentName){
+	protected function __construct($componentName,$enableCache){
 		$this->componentName = $componentName;
+		$this->enableCache = $enableCache;
+
 		$this->loadLocales();
 	}
 
@@ -145,31 +153,34 @@ class i18n {
 	public function loadLocales(){
 		$n = "i18n_locales";
 
-		if(\CacheHandler::existsInCache($n)){
+		if(\CacheHandler::existsInCache($n) && $this->enableCache === true){
 			$this->locales = \CacheHandler::getFromCache($n);
-		} else {
-			if(is_null($this->locales)){
-				$this->locales = [];
+			return;
+		}
 
-				$folder = __DIR__ . "/" . $this->componentName . "/";
+		if(is_null($this->locales)){
+			$this->locales = [];
 
-				if(file_exists($folder) && is_dir($folder)){
-					$files = glob($folder . "*");
+			$folder = __DIR__ . "/" . $this->componentName . "/";
 
-					foreach($files as $file){
-						if(is_dir($file)){
-							$dirName = basename($file);
+			if(file_exists($folder) && is_dir($folder)){
+				$files = glob($folder . "*");
 
-							$locale = new Locale($dirName);
-							$locale->reload($this->componentName);
-							
-							if($locale->isValid()){
-								$this->locales[$locale->getCode()] = $locale;
-							}
+				foreach($files as $file){
+					if(is_dir($file)){
+						$dirName = basename($file);
+
+						$locale = new Locale($dirName);
+						$locale->reload($this->componentName);
+						
+						if($locale->isValid()){
+							$this->locales[$locale->getCode()] = $locale;
 						}
 					}
 				}
+			}
 
+			if($this->enableCache === true){
 				\CacheHandler::setToCache($n,$this->locales,20*60);
 			}
 		}
