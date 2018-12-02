@@ -1,1 +1,25 @@
-{}
+{
+    "navigation.home": "Home",
+    "navigation.skins": "Skins",
+    "navigation.skins.browse": "Browse",
+    "navigation.skins.new": "New",
+    "navigation.skins.popular": "Popular",
+    "navigation.capes": "Capes",
+    "navigation.capes.mojang.browse": "Browse",
+    "navigation.capes.optifine.browse": "Browse",
+    "navigation.capes.optifine.new": "New",
+    "navigation.capes.optifine.popular": "Popular",
+    "navigation.capes.labymod.browse": "Browse",
+    "navigation.capes.labymod.new": "New",
+    "navigation.capes.labymod.popular": "Popular",
+    "navigation.faq": "FAQ",
+    "navigation.community": "Community",
+    "navigation.donate": "Donate",
+    "navigation.search.placeholder": "Enter a Name or UUID..",
+    "navigation.account.login": "Log in",
+    "navigation.account.register": "Create account",
+    "navigation.account.logout": "Log out",
+    "navigation.account.favorites": "Favorites",
+    "navigation.account.linkedMinecraftAccounts": "Linked Minecraft accounts",
+    "navigation.account.myAccount": "My Account"
+}
