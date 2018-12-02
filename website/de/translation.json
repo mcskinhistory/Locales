@@ -163,5 +163,22 @@
     "account.linkedAccounts.manage.skins": "Skins",
     "account.linkedAccounts.manage.optifine": "OptiFine Umhänge",
     "account.linkedAccounts.manage.labymod": "LabyMod Umhänge",
-    "account.linkedAccounts.manage.misc": "Sonstiges"
+    "account.linkedAccounts.manage.misc": "Sonstiges",
+    "account.linkedAccounts.manage.noFiles": "Aktuell gibt es keine registrierten Dateien auf diesem Konto. Bitte komme später wieder.",
+    "account.linkedAccounts.manage.viewButton": "Ansehen",
+    "account.linkedAccounts.manage.downloadButton": "Herunterladen",
+    "account.linkedAccounts.manage.removeButton": "Entfernen",
+    "account.linkedAccounts.manage.changeSkinButton": "Meinen Skin ändern",
+    "errorPage.404.headline": "Fehler 404 - Seite nicht gefunden",
+    "errorPage.404.text": "Die gesuchte Seite oder Datei konnte nicht gefunden werden.",
+    "fileList.skin.browse.headline": "Skins durchsuchen (Seite {0})",
+    "fileList.skin.new.headline": "Neuste Skins",
+    "fileList.skin.popular.headline": "Beliebte Skins",
+    "fileList.mojang.browse.headline": "Mojang Umhänge durchsuchen",
+    "fileList.optifine.browse.headline": "OptiFine Umhänge durchsuchen (Seite {0})",
+    "fileList.optifine.new.headline": "Neuste OptiFine Umhänge",
+    "fileList.optifine.popular.headline": "Beliebte OptiFine Umhänge",
+    "fileList.labymod.browse.headline": "LabyMod Umhänge durchsuchen (Seite {0})",
+    "fileList.labymod.new.headline": "Neuste LabyMod Umhänge",
+    "fileList.labymod.popular.headline": "Beliebte LabyMod Umhänge"
 }
