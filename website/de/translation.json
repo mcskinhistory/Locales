@@ -3,5 +3,15 @@
     "navigation.skins": "Skins",
     "navigation.skins.browse": "Durchsuchen",
     "navigation.skins.new": "Neu",
-    "navigation.skins.popular": "Beliebt"
+    "navigation.skins.popular": "Beliebt",
+    "navigation.capes": "Umhänge",
+    "navigation.capes.mojang.browse": "Durchsuchen",
+    "navigation.capes.optifine.browse": "Durchsuchen",
+    "navigation.capes.optifine.new": "Neu",
+    "navigation.capes.optifine.popular": "Beliebt",
+    "navigation.capes.labymod.browse": "Durchsuchen",
+    "navigation.capes.labymod.new": "Neu",
+    "navigation.capes.labymod.popular": "Beliebt",
+    "navigation.faq": "FAQ",
+    "navigation.community": "Community"
 }
