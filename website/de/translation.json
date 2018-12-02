@@ -13,5 +13,19 @@
     "navigation.capes.labymod.new": "Neu",
     "navigation.capes.labymod.popular": "Beliebt",
     "navigation.faq": "FAQ",
-    "navigation.community": "Community"
+    "navigation.community": "Community",
+    "navigation.donate": "Spenden",
+    "navigation.search.placeholder": "Gib einen Namen oder eine UUID ein...",
+    "navigation.account.login": "Einloggen",
+    "navigation.account.register": "Registrieren",
+    "navigation.account.logout": "Abmelden",
+    "navigation.account.favorites": "Favoriten",
+    "navigation.account.linkedMinecraftAccounts": "Verknüpfte Minecraft Konten",
+    "navigation.account.myAccount": "Mein Konto",
+    "footer.legal.notice": "Impressum",
+    "footer.legal.tos": "Allgemeine Nutzungsbedingungen",
+    "footer.legal.privacy": "Datenschutzerklärung",
+    "footer.legal.disclaimer": "Haftungsausschluss",
+    "footer.legal.refunds": "Widerrufsbelehrung",
+    "footer.important.changelogs": "Changelogs"
 }
