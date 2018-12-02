@@ -160,5 +160,8 @@
     "account.linkedAccounts.manage.switchModal.switchButton": "Wechseln",
     "account.linkedAccounts.manage.switchModal.noAccounts": "keine Konten gefunden",
     "account.linkedAccounts.manage.information": "Informationen",
-    "account.linkedAccounts.manage.skins": "Skins"
+    "account.linkedAccounts.manage.skins": "Skins",
+    "account.linkedAccounts.manage.optifine": "OptiFine Umhänge",
+    "account.linkedAccounts.manage.labymod": "LabyMod Umhänge",
+    "account.linkedAccounts.manage.misc": "Sonstiges"
 }
