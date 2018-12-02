@@ -56,6 +56,88 @@ class Locale {
 	}
 
 	/**
+	 * Gets the language code used for flag icons
+	 * 
+	 * @access public
+	 * @return string
+	 */
+	public function getFlagIconCode(){
+		$flag = $this->code;
+
+		switch($flag){
+			// danish
+			case "da":
+				$flag = "dk";
+				break;
+
+			// greece
+			case "el":
+				$flag = "gr";
+				break;
+
+			// hebrew
+			case "he":
+				$flag = "il";
+				break;
+
+			// korean
+			case "ko":
+				$flag = "kr";
+				break;
+
+			// ukrainian
+			case "uk":
+				$flag = "ua";
+				break;
+
+			// chinese
+			case "zh":
+				$flag = "cn";
+				break;
+
+			case "zh_Hans":
+				$flag = "cn";
+				break;
+
+			case "zh_Hant":
+				$flag = "cn";
+				break;
+
+			// czech
+			case "cs":
+				$flag = "cz";
+				break;
+
+			// english
+			case "en":
+				$flag = "us";
+				break;
+
+			// hindi
+			case "hi":
+				$flag = "in";
+				break;
+
+			// japanese
+			case "ja":
+				$flag = "jp";
+				break;
+
+			// norwegian
+			case "nb":
+				$flag = "no";
+				break;
+
+			// portuguese (brazil)
+			case "pt_BR":
+				$flag = "br";
+				break;
+		}
+
+		return $flag;
+	}
+
+	/**
 	 * Gets the locale name
 	 * 
 	 * @access public
