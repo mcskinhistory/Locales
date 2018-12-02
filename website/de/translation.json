@@ -128,5 +128,19 @@
     "faq.8.question": "Kann ich spenden?",
     "faq.8.answer": "Natürlich! Danke für dein Interesse uns zu unterstützen. Klicke <a {0}>hier</a> für mehr Informationen.",
     "favorites.headline": "Favoriten",
-    "favorites.skins": "Skins"
+    "favorites.skins": "Skins",
+    "favorites.mojang": "Mojang Umhänge",
+    "favorites.optifine": "OptiFine Umhänge",
+    "favorites.labymod": "LabyMod Umhänge",
+    "paginator.prev": "Zurück",
+    "paginator.next": "Weiter",
+    "profile.invalidAccount": "Ungültige UUID.",
+    "profile.uuid": "UUID",
+    "profile.uuid.separated": "UUID (getrennt)",
+    "profile.firstView": "Erste Ansicht auf MCSkinHistory",
+    "profile.socialMedia": "Soziale Medien",
+    "profile.nameHistory": "Namensgeschichte",
+    "profile.part.name": "Name",
+    "profile.part.dateAdded": "Datum",
+    "profile.skins": "Skins"
 }
