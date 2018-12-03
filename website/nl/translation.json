@@ -39,5 +39,19 @@
     "account.linkedAccounts.success": "Het account is succesvol gekoppeld.",
     "account.linkedAccounts.alreadyClaimed": "Deze speler is al geclaimd.",
     "account.linkedAccounts.playerNotFound": "Die speler kon niet gevonden worden.",
-    "account.linkedAccounts.invalidCredentials": "Ongeldige inloggegevens."
+    "account.linkedAccounts.invalidCredentials": "Ongeldige inloggegevens.",
+    "account.linkedAccounts.invalidEmail": "Vul een geldig e-mailadres in.",
+    "error.fillAllFields": "Vul alstublieft alle velden in.",
+    "error.any": "Er is een fout opgetreden.",
+    "error.any.text": "Er is een fout opgetreden: {0}.",
+    "account.linkedAccounts.unlinkModal.headline": "{0} ontkoppelen",
+    "account.linkedAccounts.unlinkModal.text": "Weet je zeker dat je {0} wilt ontkoppelen van je account? Dit kan NIET ongedaan gemaakt worden!",
+    "modalButton.submit": "Versturen",
+    "modalButton.cancel": "Annuleren",
+    "account.linkedAccounts.unlinkModal.unlinkButton": "Ontkoppelen",
+    "account.linkedAccounts.list.name": "Naam",
+    "account.linkedAccounts.list.dateLinked": "Koppeldatum",
+    "account.linkedAccounts.list.manageButton": "Beheren",
+    "account.linkedAccounts.noAccountsLinked": "Je hebt momenteel geen Minecraft-accounts gekoppeld. Klik <a href=\"#\" data-toggle=\"modal\" data-target=\"#linkModal\">hier</a> om je account te koppelen.",
+    "cape.downloadButton": "Download cape"
 }
