@@ -266,7 +266,7 @@ class Locale {
 
 			return $r;
 		} else {
-			return $phrase;
+			return $this->code === "en" ? $phrase : i18n::getLocale("en")->getTranslatedMessage($phrase,$variables);
 		}
 	}
 

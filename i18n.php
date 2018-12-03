@@ -40,7 +40,7 @@ class i18n {
 		if(!is_null($l)){
 			return $l->getTranslatedMessage($phrase,$variables);
 		} else {
-			return trim($phrase);
+			return $l->getCode() === "en" ? trim($phrase) : self::getLocale("en")->getTranslatedMessage($phrase,$variables);
 		}
 	}
 
