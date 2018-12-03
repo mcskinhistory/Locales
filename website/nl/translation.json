@@ -35,5 +35,9 @@
     "account.myAccount.id": "Gebruikers ID",
     "account.myAccount.email": "E-mailadres",
     "account.myAccount.registerDate": "Registratiedatum (MCSkinHistory)",
-    "account.myAccount.visitGigadrive": "Om je account verder to beheren, bezoek {0}."
+    "account.myAccount.visitGigadrive": "Om je account verder to beheren, bezoek {0}.",
+    "account.linkedAccounts.success": "Het account is succesvol gekoppeld.",
+    "account.linkedAccounts.alreadyClaimed": "Deze speler is al geclaimd.",
+    "account.linkedAccounts.playerNotFound": "Die speler kon niet gevonden worden.",
+    "account.linkedAccounts.invalidCredentials": "Ongeldige inloggegevens."
 }
