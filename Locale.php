@@ -137,6 +137,11 @@ class Locale {
 			case "ar":
 				$flag = "ae";
 				break;
+
+			// vietnamese
+			case "vi":
+				$flag = "vn";
+				break;
 		}
 
 		return $flag;
