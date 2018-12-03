@@ -1,1 +1,18 @@
-{}
+{
+    "navigation.home": "Begin",
+    "navigation.skins": "Skins",
+    "navigation.skins.browse": "Bladeren",
+    "navigation.skins.new": "Nieuw",
+    "navigation.skins.popular": "Populair",
+    "navigation.capes": "Capes",
+    "navigation.capes.mojang.browse": "Bladeren",
+    "navigation.capes.optifine.browse": "Bladeren",
+    "navigation.capes.optifine.new": "Nieuw",
+    "navigation.capes.optifine.popular": "Populair",
+    "navigation.capes.labymod.browse": "Bladeren",
+    "navigation.capes.labymod.new": "Nieuw",
+    "navigation.capes.labymod.popular": "Populair",
+    "navigation.faq": "FAQ",
+    "navigation.community": "Community",
+    "fileList.labymod.popular.headline": "Populaire LabyMod capes"
+}
