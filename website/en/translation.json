@@ -185,5 +185,6 @@
     "server.ips": "IP Addresses",
     "server.timeAdded": "Time added",
     "server.version": "Version",
-    "server.version.unknown": "Unknown version"
+    "server.version.unknown": "Unknown version",
+    "server.uptime": "Uptime"
 }
