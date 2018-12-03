@@ -81,5 +81,15 @@
     "restoreLegacy.linkedAccounts.status.valid": "Geldig",
     "restoreLegacy.linkedAccounts.status.alreadyClaimed": "Al geclaimd",
     "restoreLegacy.linkedAccounts.status.notClaimable": "Niet claimbaar",
-    "restoreLegacy.alreadyClaimed": "Dat account is al opnieuw geclaimd. <a href=\"/account/restoreLegacy\">Klik hier om het opnieuw te proberen.</a>"
+    "restoreLegacy.alreadyClaimed": "Dat account is al opnieuw geclaimd. <a href=\"/account/restoreLegacy\">Klik hier om het opnieuw te proberen.</a>",
+    "restoreLegacy.accountNotFound": "Kon dat account niet vinden. <a href=\"/account/restoreLegacy\">Klik hier om het opnieuw te proberen.</a>",
+    "restoreLegacy.success": "Je accountgegevens zijn opnieuw succesvol geclaimd.",
+    "restoreLegacy.headline": "Legacy-account herstellen",
+    "restoreLegacy.text.1": "Als je vóór DATE een account op MCSkinHistory.com hebt geregistreerd, ben je mogelijk je accountgegevens kwijt, zoals je gekoppelde accounts. Om je oude legacy-account te koppelen aan je nieuwe Gigadrive-account, voer je de inloggegevens van je legacy-account hieronder in.",
+    "restoreLegacy.text.2": "Houd er rekening mee dat als je eerder een account gelinkt hebt dat nu gekoppeld is aan een ander Gigadrive-account, kan je het niet opnieuw claimen!",
+    "restoreLegacy.form.email": "E-mailadres",
+    "restoreLegacy.form.password": "Wachtwoord",
+    "restoreLegacy.alreadyDoneRestore": "Je hebt je legacy-account al geclaimd.",
+    "home.seoTitle": "Vind je oude Minecraft-skins, LabyMod-capes en nog veel meer terug!",
+    "home.headline": "Minecraft Skin Database"
 }
