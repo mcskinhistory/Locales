@@ -180,5 +180,8 @@
     "fileList.optifine.popular.headline": "Popular OptiFine capes",
     "fileList.labymod.browse.headline": "Browse LabyMod capes (Page {0})",
     "fileList.labymod.new.headline": "Newest LabyMod capes",
-    "fileList.labymod.popular.headline": "Popular LabyMod capes"
+    "fileList.labymod.popular.headline": "Popular LabyMod capes",
+    "server.information": "Information",
+    "server.ips": "IP Addresses",
+    "server.timeAdded": "Time added"
 }
