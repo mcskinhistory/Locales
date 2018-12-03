@@ -142,6 +142,16 @@ class Locale {
 			case "vi":
 				$flag = "vn";
 				break;
+
+			// malay
+			case "ms":
+				$flag = "my";
+				break;
+
+			// burmese
+			case "my":
+				$flag = "mm";
+				break;
 		}
 
 		return $flag;
