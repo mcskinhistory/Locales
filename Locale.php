@@ -132,6 +132,11 @@ class Locale {
 			case "pt_BR":
 				$flag = "br";
 				break;
+
+			// arabic
+			case "ar":
+				$flag = "ae";
+				break;
 		}
 
 		return $flag;
