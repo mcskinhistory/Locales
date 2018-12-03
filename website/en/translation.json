@@ -187,5 +187,7 @@
     "server.version": "Version",
     "server.version.unknown": "Unknown version",
     "server.uptime": "Uptime",
-    "home.trendingServers": "Trending Servers"
+    "home.trendingServers": "Trending Servers",
+    "dashboard.yourFavorites.loginPlaceholder": "Log in to customize your home page with your favorite skins, capes and servers!",
+    "dashboard.yourFavorites.loginPlaceholder.button": "Sign in with Gigadrive"
 }
