@@ -174,6 +174,39 @@ class Locale {
 	}
 
 	/**
+	 * Gets the name of the timeago translation file.
+	 * 
+	 * @access public
+	 * @return string
+	 */
+	public function getTimeAgoFileName(){
+		$code = $this->code;
+		$file = null;
+
+		switch($code){
+			case "zh_Hans":
+				$file = "zh-CN";
+				break;
+			case "zh_Hant":
+				$file = "zh-TW";
+				break;
+			case "pt_BR":
+				$file = "pt-br";
+				break;
+			case "nb":
+				$file = "no";
+				break;
+			
+		}
+
+		if(is_null($file)){
+			$file = $this->getFlagIconCode();
+		}
+
+		return "jquery.timeago." . $file . ".js";
+	}
+
+	/**
 	 * Reloads phrases and locale data from the file system
 	 * 
 	 * @access public
