@@ -53,5 +53,14 @@
     "account.linkedAccounts.list.dateLinked": "Koppeldatum",
     "account.linkedAccounts.list.manageButton": "Beheren",
     "account.linkedAccounts.noAccountsLinked": "Je hebt momenteel geen Minecraft-accounts gekoppeld. Klik <a href=\"#\" data-toggle=\"modal\" data-target=\"#linkModal\">hier</a> om je account te koppelen.",
-    "cape.downloadButton": "Download cape"
+    "cape.downloadButton": "Cape downloaden",
+    "cape.headline": "Cape \"{0}\"",
+    "skinFilePage.information.headline": "Informatie",
+    "skinFilePage.information.id": "ID",
+    "skinFilePage.information.dateAdded": "Datum toegevoegd",
+    "skinFilePage.information.firstUser": "Eerste gebruiker",
+    "cape.users.headline": "Cape-gebruikers",
+    "cape.users.noUsers": "Niemand gebruikt deze cape op dit moment.",
+    "cape.related": "Gerelateerde capes",
+    "skin.headline": "Skin \"{0}\""
 }
