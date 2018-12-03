@@ -183,5 +183,7 @@
     "fileList.labymod.popular.headline": "Popular LabyMod capes",
     "server.information": "Information",
     "server.ips": "IP Addresses",
-    "server.timeAdded": "Time added"
+    "server.timeAdded": "Time added",
+    "server.version": "Version",
+    "server.version.unknown": "Unknown version"
 }
