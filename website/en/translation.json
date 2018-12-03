@@ -186,5 +186,6 @@
     "server.timeAdded": "Time added",
     "server.version": "Version",
     "server.version.unknown": "Unknown version",
-    "server.uptime": "Uptime"
+    "server.uptime": "Uptime",
+    "home.trendingServers": "Trending Servers"
 }
