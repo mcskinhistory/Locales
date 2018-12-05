@@ -171,6 +171,7 @@
     "restoreLegacy.success": "Deine Kontodaten wurden erfolgreich beansprucht.",
     "restoreLegacy.text.1": "Wenn du vor dem 11. Mai 2018 ein Konto auf MCSkinHistory.com erstellt hast, könntest du deine Kontodaten wie deine verknüpften Konten verloren haben. Um dein Legacy-Konto mit deinem neuen Gigadrive-Konto zu verknüpfen, gib bitte die Logindaten deines Legacy-Kontos ein. Danach kannst du deine alten Daten mit deinen neuen Daten verbinden.",
     "restoreLegacy.text.2": "Bitte beachte, dass wenn du bereits ein Minecraft-Konto mit einem anderen Gigadrive-Konto verknüpft hast, kannst du es NICHT wieder beanspruchen!",
+    "server.chart.playersLabel": "Spieler",
     "server.information": "Informationen",
     "server.ips": "IP-Adressen",
     "server.timeAdded": "Datum",
