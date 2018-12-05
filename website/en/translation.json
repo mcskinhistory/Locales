@@ -189,5 +189,6 @@
     "skinFilePage.information.dateAdded": "Date added",
     "skinFilePage.information.firstUser": "First user",
     "skinFilePage.information.headline": "Information",
-    "skinFilePage.information.id": "ID"
+    "skinFilePage.information.id": "ID",
+    "server.website": "Website"
 }
