@@ -177,6 +177,7 @@
     "server.uptime": "Verfügbarkeit",
     "server.version": "Version",
     "server.version.unknown": "Unbekannte Version",
+    "server.website": "Webseite",
     "skin.changeButton": "Skin benutzen",
     "skin.downloadButton": "Skin herunterladen",
     "skin.headline": "Skin \"{0}\"",
