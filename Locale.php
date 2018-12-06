@@ -157,6 +157,11 @@ class Locale {
 			case "sv":
 				$flag = "se";
 				break;
+
+			// slovenian
+			case "sl":
+				$flag = "si";
+				break;
 		}
 
 		return $flag;
