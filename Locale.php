@@ -167,6 +167,11 @@ class Locale {
 			case "sr":
 				$flag = "rs";
 				break;
+
+			// afrikaans
+			case "af":
+				$flag = "za";
+				break;
 		}
 
 		return $flag;
