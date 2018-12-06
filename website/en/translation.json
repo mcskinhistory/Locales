@@ -192,5 +192,7 @@
     "skinFilePage.information.id": "ID",
     "server.website": "Website",
     "server.chart.playersLabel": "Players",
-    "server.playerPeak": "Player peak"
+    "server.playerPeak": "Player peak",
+    "navigation.servers": "Servers",
+    "serverList.headline": "Browse servers (Page {0})"
 }
