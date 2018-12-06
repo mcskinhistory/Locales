@@ -152,6 +152,11 @@ class Locale {
 			case "my":
 				$flag = "mm";
 				break;
+
+			// swedish
+			case "sv":
+				$flag = "se";
+				break;
 		}
 
 		return $flag;
