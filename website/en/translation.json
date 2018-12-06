@@ -191,5 +191,6 @@
     "skinFilePage.information.headline": "Information",
     "skinFilePage.information.id": "ID",
     "server.website": "Website",
-    "server.chart.playersLabel": "Players"
+    "server.chart.playersLabel": "Players",
+    "server.playerPeak": "Player peak"
 }
