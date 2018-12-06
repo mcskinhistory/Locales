@@ -172,6 +172,11 @@ class Locale {
 			case "af":
 				$flag = "za";
 				break;
+
+			// estonian
+			case "et":
+				$flag = "ee";
+				break;
 		}
 
 		return $flag;
