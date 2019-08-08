@@ -77,7 +77,7 @@
 	"modalButton.cancel": "Cancel",
 	"modalButton.submit": "Submit",
 	"namePage.originalName": "Original name",
-	"namePage.results": "Results: %name%",
+	"namePage.results": "Results: %results%",
 	"namePage.statusHeadline.available": "Name is available!",
 	"namePage.statusHeadline.notAvailable": "Name is not available!",
 	"navigation.account.favorites": "Favorites",
