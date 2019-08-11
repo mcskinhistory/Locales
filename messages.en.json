@@ -154,5 +154,15 @@
 	"skinFilePage.information.dateAdded": "Date added",
 	"skinFilePage.information.firstUser": "First user",
 	"skinFilePage.information.headline": "Information",
-	"skinFilePage.information.id": "ID"
+	"skinFilePage.information.id": "ID",
+	"serverList.headline": "Browse servers (Page %page%)",
+	"fileList.skin.browse.headline": "Browse skins (Page %page%)",
+	"fileList.skin.new.headline": "Newest skins",
+	"fileList.skin.popular.headline": "Popular skins",
+	"fileList.mojang.browse.headline": "Browse Mojang capes (Page %page)",
+	"fileList.optifine.browse.headline": "Browse OptiFine capes (Page %page%)",
+	"fileList.optifine.new.headline": "Newest OptiFine capes",
+	"fileList.optifine.popular.headline": "Popular OptiFine capes",
+	"fileList.labymod.browse.headline": "Browse LabyMod capes (Page %page%)",
+	"fileList.labymod.new.headline": "Newest LabyMod capes"
 }
