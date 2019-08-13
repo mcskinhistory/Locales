@@ -120,6 +120,8 @@
 	"profile.labymodCapes": "LabyMod Capes",
 	"profile.mojangCapes": "Mojang Capes",
 	"profile.nameHistory": "Name History",
+	"profile.newPlayer.headline": "This player has been added to the database recently.",
+	"profile.newPlayer.text": "Please note that player data will only be shown if it was documented, before this player was added to the database. Therefore, old skins and capes might be missing.",
 	"profile.optifineCapes": "OptiFine Capes",
 	"profile.part.dateAdded": "Date added",
 	"profile.part.name": "Name",
