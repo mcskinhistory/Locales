@@ -187,5 +187,13 @@
 	"skinFilePage.information.dateAdded": "Date added",
 	"skinFilePage.information.firstUser": "First user",
 	"skinFilePage.information.headline": "Information",
-	"skinFilePage.information.id": "ID"
+	"skinFilePage.information.id": "ID",
+	"account.editProfile.noPrimaryPlayer": "Please link your Minecraft account, before editing your profile.",
+	"account.editProfile.information.headline": "Information",
+	"account.editProfile.skins.headline": "Skins",
+	"account.editProfile.optifineCapes.headline": "OptiFine Capes",
+	"account.editProfile.labymodCapes.headline": "LabyMod Capes",
+	"account.editProfile.socialMedia.headline": "Social media",
+	"account.editProfile.submit": "Save changes",
+	"account.editProfile.socialMedia.updated": "Your social media links have been updated."
 }
