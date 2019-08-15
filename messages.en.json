@@ -24,6 +24,7 @@
 	"account.editProfile.socialMedia.headline": "Social media",
 	"account.editProfile.socialMedia.updated": "Your social media links have been updated.",
 	"account.editProfile.submit": "Save changes",
+	"account.favorites.skins.noTextures": "You currently don't have any favorites of this type.",
 	"account.linkedAccounts.list.dateLinked": "Date linked",
 	"account.linkedAccounts.list.manageButton": "Manage",
 	"account.linkedAccounts.list.name": "Name",
