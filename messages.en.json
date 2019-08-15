@@ -195,5 +195,10 @@
 	"skinFilePage.information.dateAdded": "Date added",
 	"skinFilePage.information.firstUser": "First user",
 	"skinFilePage.information.headline": "Information",
-	"skinFilePage.information.id": "ID"
+	"skinFilePage.information.id": "ID",
+	"account.editProfile.skins.noTextures": "You currently don't have any files of this type.",
+	"accounts.linkedAccounts.manage.removeTexture.modal.skin": "Please note that if you currently have this skin activated, it will be shown on your profile again.",
+	"accounts.linkedAccounts.manage.removeTexture.modal.cape": "Please note that if you currently have this cape activated, it will be shown on your profile again.",
+	"account.editProfile.skins.unknownTexture": "Unknown texture ID.",
+	"account.editProfile.skins.textureRemoved": "The file has been removed from your profile."
 }
