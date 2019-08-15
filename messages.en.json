@@ -88,6 +88,8 @@
 	"faq.8.question": "Can I donate?",
 	"faq.headline": "Frequently Asked Questions",
 	"faq.lastUpdate": "Last update: %time%",
+	"favoriteButton.tooltip.add": "Add to favorites",
+	"favoriteButton.tooltip.remove": "Remove from favorites",
 	"favorites.labymod": "LabyMod capes",
 	"favorites.mojang": "Mojang capes",
 	"favorites.optifine": "OptiFine capes",
