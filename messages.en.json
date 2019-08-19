@@ -151,6 +151,8 @@
 	"navigation.skins.browse": "Browse",
 	"navigation.skins.new": "New",
 	"navigation.skins.popular": "Popular",
+	"paginator.next": "Next",
+	"paginator.prev": "Previous",
 	"profile.claimButton": "Claim this player",
 	"profile.firstView": "First view on MCSkinHistory",
 	"profile.labymodCapes": "LabyMod Capes",
