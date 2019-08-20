@@ -97,6 +97,7 @@
 	"favorites.skins": "Skins",
 	"fileList.labymod.browse.headline": "Browse LabyMod capes (Page %page%)",
 	"fileList.labymod.new.headline": "Newest LabyMod capes",
+	"fileList.labymod.popular.headline": "Popular LabyMod capes",
 	"fileList.mojang.browse.headline": "Browse Mojang capes (Page %page%)",
 	"fileList.optifine.browse.headline": "Browse OptiFine capes (Page %page%)",
 	"fileList.optifine.new.headline": "Newest OptiFine capes",
