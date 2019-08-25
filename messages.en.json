@@ -56,6 +56,8 @@
 	"accounts.linkedAccounts.manage.removeTexture.modal.cape": "Please note that if you currently have this cape activated, it will be shown on your profile again.",
 	"accounts.linkedAccounts.manage.removeTexture.modal.removeButton": "Remove",
 	"accounts.linkedAccounts.manage.removeTexture.modal.skin": "Please note that if you currently have this skin activated, it will be shown on your profile again.",
+	"adBlockInfo.headline": "Please disable your adblocker!",
+	"adBlockInfo.text": "MCSkinHistory is made possible through advertisment so please disable your adblocker or <a %target%>consider donating</a>.",
 	"alert.minecraftEditionInformation": "This website only works for the Java Edition of Minecraft!",
 	"alert.yoshinoAdvertisment": "Do you need a fast and reliable bot for Discord, Twitch or YouTube? <a href=\"https://yoshino.gigadrivegroup.com\" target=\"_blank\">Check out Yoshino!</a>",
 	"cape.downloadButton": "Download cape",
