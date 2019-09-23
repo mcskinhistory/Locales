@@ -208,5 +208,8 @@
 	"skinFilePage.information.dateAdded": "Date added",
 	"skinFilePage.information.firstUser": "First user",
 	"skinFilePage.information.headline": "Information",
-	"skinFilePage.information.id": "ID"
+	"skinFilePage.information.id": "ID",
+	"account.editProfile.unlink.headline": "Unlink",
+	"account.editProfile.unlink.areYouSure": "Are you sure you want to unlink this Minecraft account? Data is potentially lost that can NOT be recovered!",
+	"account.editProfile.unlink.success": "The account has successfully been unlinked."
 }
