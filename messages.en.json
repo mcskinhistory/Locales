@@ -232,5 +232,8 @@
 	"skinFilePage.information.dateAdded": "Date added",
 	"skinFilePage.information.firstUser": "First user",
 	"skinFilePage.information.headline": "Information",
-	"skinFilePage.information.id": "ID"
+	"skinFilePage.information.id": "ID",
+	"thanks.description.1": "Your transaction should be processed within the next few minutes. Please note that this process may take up to 12 hours. Once it has been processed, you will receive your PRO perks.",
+	"thanks.description.2": "If you need any help or run into problems, please contact us.",
+	"thanks.headline": "Thank you for your purchase!"
 }
