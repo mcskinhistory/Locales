@@ -67,6 +67,7 @@
 	"account.transactionHistory.status.cancelled": "Cancelled",
 	"account.transactionHistory.status.completed": "Completed",
 	"account.transactionHistory.status.confirming": "Confirming",
+	"account.transactionHistory.status.refunded": "Refunded",
 	"accounts.linkedAccounts.manage.removeTexture.modal.areYouSure": "Are you sure you want to remove this texture from your profile?",
 	"accounts.linkedAccounts.manage.removeTexture.modal.cape": "Please note that if you currently have this cape activated, it will be shown on your profile again.",
 	"accounts.linkedAccounts.manage.removeTexture.modal.removeButton": "Remove",
