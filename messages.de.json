@@ -70,7 +70,7 @@
 	"accounts.linkedAccounts.manage.removeTexture.modal.removeButton": "Entfernen",
 	"accounts.linkedAccounts.manage.removeTexture.modal.skin": "Bitte beachte, dass dieser Skin wieder hinzugefügt wird, wenn er aktuell auf deinem Account aktiv ist.",
 	"adBlockInfo.headline": "Bitte deaktiviere deinen Adblocker!",
-	"adBlockInfo.text": "MCSkinHistory wird durch Werbung ermöglicht, also bitte deaktiviere deinen Adblocker oder überlege ob du <a %target%>spenden möchtest</a>.",
+	"adBlockInfo.text": "MCSkinHistory wird durch Werbung ermöglicht, also bitte deaktiviere deinen Adblocker oder überlege ob du <a %target%>ein PRO Mitglied werden möchtest, um Werbung auszublenden</a>.",
 	"alert.minecraftEditionInformation": "Diese Webseite funktioniert nur mit der Java Version von Minecraft!",
 	"alert.yoshinoAdvertisment": "Brauchst du einen schnellen und verlässlichen Bot für Discord, Twitch oder YouTube? <a href=\"https://yoshino.gigadrivegroup.com\" target=\"_blank\">Schau dir Yoshino an!</a>",
 	"cape.downloadButton": "Umhang herunterladen",
