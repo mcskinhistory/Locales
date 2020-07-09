@@ -156,6 +156,9 @@
     "footer.legal.privacy": "Privacy Policy",
     "footer.legal.refunds": "Refund Policy",
     "footer.legal.tos": "Terms of Service",
+    "footer.product.labyAddon": "LabyMod Addon",
+    "footer.product.status": "Status",
+    "footer.product.support": "Support",
     "home.headline": "Minecraft Skin Database",
     "home.headline.sub": "Restore lost Minecraft skins, OptiFine- or LabyMod capes!",
     "home.seoTitle": "Get old Minecraft skins, LabyMod capes and more back!",
@@ -274,8 +277,5 @@
     "thanks.description.1": "Your transaction should be processed within the next few minutes. Please note that this process may take up to 12 hours. Once it has been processed, you will receive your PRO perks.",
     "thanks.description.2": "If you need any help or run into problems, please contact us.",
     "thanks.email.description": "Your transaction has been processed and your account has been upgraded to MCSkinHistory PRO, enjoy!",
-    "thanks.headline": "Thank you for your purchase!",
-    "footer.product.labyAddon": "LabyMod Addon",
-    "footer.product.status": "Status",
-    "footer.product.support": "Support"
+    "thanks.headline": "Thank you for your purchase!"
 }
