@@ -168,7 +168,10 @@
     "namePage.originalName": "Original name",
     "namePage.results": "Results: %results%",
     "namePage.statusHeadline.available": "Name is available!",
+    "namePage.statusHeadline.invalidCharacters": "Invalid Characters",
     "namePage.statusHeadline.notAvailable": "Name is not available!",
+    "namePage.statusHeadline.tooLong": "Too Long",
+    "namePage.statusHeadline.tooShort": "Too Short",
     "navigation.account.claimAccount": "Claim an account",
     "navigation.account.editProfile": "Edit profile",
     "navigation.account.favorites": "Favorites",
@@ -277,8 +280,5 @@
     "thanks.description.1": "Your transaction should be processed within the next few minutes. Please note that this process may take up to 12 hours. Once it has been processed, you will receive your PRO perks.",
     "thanks.description.2": "If you need any help or run into problems, please contact us.",
     "thanks.email.description": "Your transaction has been processed and your account has been upgraded to MCSkinHistory PRO, enjoy!",
-    "thanks.headline": "Thank you for your purchase!",
-    "namePage.statusHeadline.tooShort": "Too Short",
-    "namePage.statusHeadline.tooLong": "Too Long",
-    "namePage.statusHeadline.invalidCharacters": "Invalid Characters"
+    "thanks.headline": "Thank you for your purchase!"
 }
