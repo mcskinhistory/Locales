@@ -102,6 +102,11 @@
     "email.proExpired.description": "Hello, your MCSkinHistory PRO membership expired today.",
     "email.proExpired.description.2": "You can start a new subscription by visiting our website and clicking on the \"Go Pro!\" tab.",
     "email.proExpired.headline": "Your membership expired",
+    "entryList.headline.cape_labymod": "LabyMod Capes",
+    "entryList.headline.cape_mojang": "Mojang Capes",
+    "entryList.headline.cape_optifine": "OptiFine Capes",
+    "entryList.headline.server": "Minecraft Servers",
+    "entryList.headline.skin": "Minecraft Skins",
     "error.fillAllFields": "Please fill all the fields.",
     "errorPage.404.headline": "Error 404 - Page not found",
     "errorPage.404.text": "The requested page or file could not be found.",
@@ -286,10 +291,5 @@
     "thanks.description.1": "Your transaction should be processed within the next few minutes. Please note that this process may take up to 12 hours. Once it has been processed, you will receive your PRO perks.",
     "thanks.description.2": "If you need any help or run into problems, please contact us.",
     "thanks.email.description": "Your transaction has been processed and your account has been upgraded to MCSkinHistory PRO, enjoy!",
-    "thanks.headline": "Thank you for your purchase!",
-    "entryList.headline.skin": "Minecraft Skins",
-    "entryList.headline.cape_optifine": "OptiFine Capes",
-    "entryList.headline.cape_labymod": "LabyMod Capes",
-    "entryList.headline.cape_mojang": "Mojang Capes",
-    "entryList.headline.server": "Minecraft Servers"
+    "thanks.headline": "Thank you for your purchase!"
 }
