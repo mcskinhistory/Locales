@@ -266,6 +266,7 @@
     "server.chart.playersLabel": "Spieler",
     "server.information": "Informationen",
     "server.ips": "IP-Adressen",
+    "server.location": "Standort",
     "server.playerPeak": "Spielerrekord",
     "server.timeAdded": "Datum",
     "server.uptime": "Verf\u00fcgbarkeit",
@@ -290,6 +291,5 @@
     "thanks.description.1": "Deine Transaktion sollte in ein paar Minuten verarbeitet werden. Bitte beachte, dass dieser Prozess bis zu 12 Stunden dauern kann. Sobald deine Transaktion verarbeitet wurde, erh\u00e4lst du deine PRO Vorteile.",
     "thanks.description.2": "Solltest du Hilfe brauchen oder irgendwelche Probleme haben, kontaktiere uns.",
     "thanks.email.description": "Deine Transaktion wurde vararbeitet und dein Konto wurde auf MCSkinHistory PRO geupgraded, viel Spa\u00df!",
-    "thanks.headline": "Vielen Dank f\u00fcr deinen Einkauf!",
-    "server.location": "Standort"
+    "thanks.headline": "Vielen Dank f\u00fcr deinen Einkauf!"
 }
