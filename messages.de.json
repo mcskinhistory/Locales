@@ -79,6 +79,7 @@
     "accounts.linkedAccounts.manage.removeTexture.modal.cape": "Bitte beachte, dass dieser Umhang wieder hinzugef\u00fcgt wird, wenn er aktuell auf deinem Account aktiv ist.",
     "accounts.linkedAccounts.manage.removeTexture.modal.removeButton": "Entfernen",
     "accounts.linkedAccounts.manage.removeTexture.modal.skin": "Bitte beachte, dass dieser Skin wieder hinzugef\u00fcgt wird, wenn er aktuell auf deinem Account aktiv ist.",
+    "adBlockAlert.text": "Einige Funktionen k\u00f6nnen aufgrund deines Werbeblockers nicht funktionieren. Bitte deaktiviere dieses Addon um sicherzustellen, dass alles richtig funktioniert. Unsere Werbung nervt nicht, versprochen!",
     "adBlockInfo.headline": "Bitte deaktiviere deinen Adblocker!",
     "adBlockInfo.text": "MCSkinHistory wird durch Werbung erm\u00f6glicht, also bitte deaktiviere deinen Adblocker oder \u00fcberlege ob du <a %target%>ein PRO Mitglied werden m\u00f6chtest, um Werbung auszublenden<\/a>.",
     "alert.minecraftEditionInformation": "Diese Webseite funktioniert nur mit der Java Version von Minecraft!",
